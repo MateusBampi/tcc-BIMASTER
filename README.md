@@ -14,7 +14,7 @@ O projeto, desenvolvido em Python, consistiu em criar um modelo de deep learning
 
 A rede neural sequencial utilizou o otimizador Adam e as função de ativação Relu e foi dividida em duas partes: 
   
-  1. Uma rede convolucional, com duas camadas convolucionais para extrair informações das imagens, duas camadas de maxpooling como forma de reduzir o tamanho das informações, uma camada de dropout para melhor a performance do modelo e uma camada de flattening para passar as informações para a parte full dense da rede neural;
+  1. Uma rede convolucional, com duas camadas convolucionais para extrair informações das imagens, duas camadas de maxpooling como forma de reduzir o tamanho das informações, uma camada de dropout para melhorar a performance do modelo e uma camada de flattening para passar as informações para a parte full dense da rede neural;
 
   2. A rede full dense consistiu em duas camadas, uma com 128 neurônios para aprender o que se passa na imagem, e uma com um neurônio para dar o resultado final.
 
