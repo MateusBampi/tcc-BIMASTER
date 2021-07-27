@@ -1,4 +1,4 @@
-# Apuração de pessoas em imagens de drones utilizando deep learning
+# Uso de Redes Neurais de Deep Learning para cálculo de pessoas em imagens de drones
 #### Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
 #### Orientador: [Manoela Kohler](https://github.com/manoelakohler).
 
